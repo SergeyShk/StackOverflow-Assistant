@@ -58,4 +58,4 @@ Telegram-бот для поиска релевантных тем на StackOver
 
 @shkarin_stackoverflow_bot
 
-Бот запущен на виртуальной машине Amazon EC2.
+Бот запущен на виртуальной машине Amazon EC2 (временно выключен).
